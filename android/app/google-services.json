@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1075958764272",
+    "project_id": "laravel-push-notif-d4f09",
+    "storage_bucket": "laravel-push-notif-d4f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075958764272:android:678ffbbac8177229452835",
+        "android_client_info": {
+          "package_name": "com.example.anabul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075958764272-m07hvdpahpokvg4io5fbu847od00vcg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD207jKhiuDD-Sjh8_yqb5AmFGyHYSmMUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075958764272-m07hvdpahpokvg4io5fbu847od00vcg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075958764272:android:61404945fbf569c3452835",
+        "android_client_info": {
+          "package_name": "com.example.anabulhotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075958764272-m07hvdpahpokvg4io5fbu847od00vcg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD207jKhiuDD-Sjh8_yqb5AmFGyHYSmMUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075958764272-m07hvdpahpokvg4io5fbu847od00vcg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
